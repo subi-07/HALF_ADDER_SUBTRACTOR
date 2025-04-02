@@ -55,7 +55,22 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+  Half Adder
+  ![Screenshot 2025-04-02 205321](https://github.com/user-attachments/assets/a42b6724-cbb9-415e-8d3d-4124b18e3f7d)
+  
+  Half Subtractor
+  ![Screenshot 2025-04-02 212455](https://github.com/user-attachments/assets/5f31d2d9-d46f-4f88-8bc2-d70dc47f418a)
+
 
 **Output/TIMING Waveform**
+Half adder
+![Screenshot 2025-04-02 210355](https://github.com/user-attachments/assets/6344126f-a258-4353-9226-3a88d0fa9d2a)
+
+Half subtractor
+![Screenshot 2025-04-02 213501](https://github.com/user-attachments/assets/fa258566-e5d9-478a-9b06-d71490f6c4b5)
+
+
 
 **Result:**
+
+
